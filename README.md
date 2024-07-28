@@ -1,10 +1,12 @@
 # React - Firebase Chat APP Project
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,firebase" />
+    <img src="https://skillicons.dev/icons?i=react,firebase,css" />
   </a>
 </p>
-![image](https://github.com/user-attachments/assets/be9a7a6e-57e2-4de2-a8d1-aec7afde171d)
+
+![image](https://github.com/user-attachments/assets/fbd1775c-57fa-46be-a9f7-895e04edb0f8)
+
 
 
 ## Kurulum
